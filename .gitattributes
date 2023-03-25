@@ -1,0 +1,5 @@
+libburst-llvm-10.dylib filter=lfs diff=lfs merge=lfs -text
+artifactdb filter=lfs diff=lfs merge=lfs -text
+lld filter=lfs diff=lfs merge=lfs -text
+libburst-llvm-12.so filter=lfs diff=lfs merge=lfs -text
+dsymutil filter=lfs diff=lfs merge=lfs -text
